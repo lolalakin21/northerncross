@@ -1,1 +1,3 @@
 # northerncross
+Deneb
+Albireo
